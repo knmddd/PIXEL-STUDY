@@ -1,4 +1,3 @@
-"""Tkinter/Pillow desktop interface for PixelStudy. No web service required."""
 from __future__ import annotations
 
 import calendar
