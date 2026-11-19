@@ -9,6 +9,6 @@ dist/
 .DS_Store
 .vscode/
 .idea/
-# Never commit personal reminder data
+
 tasks.json
 *.tmp
