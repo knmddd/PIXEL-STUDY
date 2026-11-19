@@ -1,4 +1,3 @@
-"""Pomodoro state machine: 25-minute focus / short break / long break."""
 from __future__ import annotations
 import time
 
